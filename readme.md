@@ -12,6 +12,10 @@ LICENSE: [MIT](license.md)
 3. [git add](add.md)
 4. [git status](status.md)
 5. [git commit](commit.md)
+6. [git log](log.md)
+7. [git checkout](checkout.md)
+8. [git branch](branch.md)
+9. [git merge](merge.md)
 
 ---
 
