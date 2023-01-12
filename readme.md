@@ -6,7 +6,7 @@ LICENSE: [MIT](license.md)
 
 ---
 
-### Содержание:
+### <font color = yellow>Содержание:</font>
 1. [Подготовка к работе с GIT](Preparation.md)
 2. [git init](init.md)
 3. [git add](add.md)
