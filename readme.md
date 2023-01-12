@@ -16,6 +16,9 @@ LICENSE: [MIT](license.md)
 7. [git checkout](checkout.md)
 8. [git branch](branch.md)
 9. [git merge](merge.md)
+10. [git remote](remote.md)
+11. [git push](push.md)
+12. [git pull](pull.md)
 
 ---
 
